@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://i.ibb.co/sHv87rB/favicon.png" alt="ALPHA" width="200"/>
+<img src="[https://i.ibb.co/sHv87rB/favicon.png](https://telegra.ph/Queens-10-30-8)" alt="ALPHA" width="200"/>
 </p>
 
 > **Note**: Silahkan register di website [api zeeoneofc](https://api.zeeoneofc.my.id/users/login) untuk mendapatkan apikey 🔐
